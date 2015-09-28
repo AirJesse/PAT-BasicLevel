@@ -1,2 +1,2 @@
 # PAT-BasicLevel
-ÓÃJavaÍê³ÉµÄ**[PATÒÒ¼¶](http://www.patest.cn/contests/pat-b-practise)**ÕæÌâ¡£
+ç”¨Javaå®Œæˆçš„**[PATä¹™çº§](http://www.patest.cn/contests/pat-b-practise)**çœŸé¢˜ã€‚
